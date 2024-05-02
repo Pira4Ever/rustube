@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "rsytdl",
-    "version": "0.1.0"
+    "version": "0.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -154,7 +154,7 @@
     },
     "updater": {
       "active": true,
-      "endpoints": ["https://github.com/Pira4Ever/rustube/raw/master/latest.json"],
+      "endpoints": ["https://raw.githubusercontent.com/Pira4Ever/rustube/main/latest.json"],
       "dialog": true,
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDYxQjZBODI4NTVBQjU4QjgKUldTNFdLdFZLS2kyWVkySjBvay9mZy9VcnVFUWhWUnh6NWJtbU5lM1daZVUyVnBIL3pCbHJSZ3EK",
       "windows": {
